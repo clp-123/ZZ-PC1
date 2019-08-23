@@ -1623,7 +1623,7 @@
   left:0px;
   top:0px;
   width:980px;
-  height:160px;
+  height:175px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
   border:none;
@@ -1638,13 +1638,13 @@
   left:337px;
   top:298px;
   width:980px;
-  height:160px;
+  height:175px;
 }
 #u1371 {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:72px;
+  top:80px;
   width:976px;
   visibility:hidden;
   word-wrap:break-word;
@@ -1661,7 +1661,7 @@
   border-width:0px;
   position:absolute;
   left:346px;
-  top:326px;
+  top:347px;
   width:89px;
   height:81px;
 }
@@ -1698,7 +1698,7 @@
   border-width:0px;
   position:absolute;
   left:455px;
-  top:310px;
+  top:331px;
   width:181px;
   height:19px;
   font-family:'Arial Normal', 'Arial';
@@ -1739,7 +1739,7 @@
   border-width:0px;
   position:absolute;
   left:455px;
-  top:345px;
+  top:366px;
   width:177px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -1780,7 +1780,7 @@
   border-width:0px;
   position:absolute;
   left:635px;
-  top:345px;
+  top:366px;
   width:96px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -1821,7 +1821,7 @@
   border-width:0px;
   position:absolute;
   left:734px;
-  top:345px;
+  top:366px;
   width:94px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -1861,7 +1861,7 @@
   border-width:0px;
   position:absolute;
   left:455px;
-  top:371px;
+  top:392px;
   width:109px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -1900,7 +1900,7 @@
   border-width:0px;
   position:absolute;
   left:583px;
-  top:371px;
+  top:392px;
   width:148px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -1940,7 +1940,7 @@
   border-width:0px;
   position:absolute;
   left:1111px;
-  top:371px;
+  top:392px;
   width:185px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -1969,7 +1969,7 @@
   border-width:0px;
   position:absolute;
   left:346px;
-  top:417px;
+  top:438px;
   width:956px;
   height:1px;
 }
@@ -2005,7 +2005,7 @@
   border-width:0px;
   position:absolute;
   left:663px;
-  top:310px;
+  top:331px;
   width:112px;
   height:19px;
   font-family:'Arial Normal', 'Arial';
@@ -2044,7 +2044,7 @@
   border-width:0px;
   position:absolute;
   left:627px;
-  top:428px;
+  top:449px;
   width:53px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -2083,7 +2083,7 @@
   border-width:0px;
   position:absolute;
   left:753px;
-  top:428px;
+  top:449px;
   width:53px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -2122,7 +2122,7 @@
   border-width:0px;
   position:absolute;
   left:879px;
-  top:428px;
+  top:449px;
   width:53px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -2161,7 +2161,7 @@
   border-width:0px;
   position:absolute;
   left:1004px;
-  top:428px;
+  top:449px;
   width:54px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -2200,7 +2200,7 @@
   border-width:0px;
   position:absolute;
   left:1131px;
-  top:428px;
+  top:449px;
   width:45px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -2239,7 +2239,7 @@
   border-width:0px;
   position:absolute;
   left:1257px;
-  top:428px;
+  top:449px;
   width:45px;
   height:16px;
   font-family:'Arial Normal', 'Arial';
@@ -2275,7 +2275,7 @@
   border-width:0px;
   position:absolute;
   left:1218px;
-  top:310px;
+  top:331px;
   width:84px;
   height:32px;
   color:#6592D6;
@@ -2308,7 +2308,7 @@
   border-width:0px;
   position:absolute;
   left:1134px;
-  top:310px;
+  top:331px;
   width:84px;
   height:32px;
   color:#6592D6;
@@ -2326,7 +2326,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:37px;
+  width:157px;
   height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2344,9 +2344,9 @@
 #u1408 {
   border-width:0px;
   position:absolute;
-  left:1277px;
-  top:299px;
-  width:37px;
+  left:339px;
+  top:303px;
+  width:157px;
   height:15px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -2359,7 +2359,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:37px;
+  width:157px;
   white-space:nowrap;
 }
 #u1410_div {
